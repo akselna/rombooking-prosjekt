@@ -1,0 +1,27 @@
+# Ignorer Python cache-filer
+__pycache__/
+*.py[cod]
+
+# Ignorer konfigurasjonsfiler med sensitiv informasjon
+.login.cfg
+.env
+
+# Ignorer virtuelle miljøer
+venv/
+env/
+
+credentials.json
+*.pyc
+.DS_Store
+db.sqlite3
+mittmiljo/
+mittmiljo2/
+
+# Ignorer loggfiler
+*.log
+
+# Ignorer feilsøkingsbilder
+*.png
+db.sqlite3
+
+

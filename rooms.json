@@ -1,0 +1,849 @@
+[
+{
+  "model": "rombooking_api.room",
+  "pk": 1,
+  "fields": {
+    "name": "03-068",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-068.jpeg",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 2,
+  "fields": {
+    "name": "03-074",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-074.jpeg",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 3,
+  "fields": {
+    "name": "03-078",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-078.jpeg",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 4,
+  "fields": {
+    "name": "03-081",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-081.jpeg",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 5,
+  "fields": {
+    "name": "03-082",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-082.jpeg",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 6,
+  "fields": {
+    "name": "03-085",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-085.jpeg",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 7,
+  "fields": {
+    "name": "03-086",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-086.jpeg",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 8,
+  "fields": {
+    "name": "03-087",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/03-087.jpeg",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 9,
+  "fields": {
+    "name": "05-118",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/05-118.jpeg",
+    "capacity": 16,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 10,
+  "fields": {
+    "name": "05-119",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/05-119.jpeg",
+    "capacity": 16,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 11,
+  "fields": {
+    "name": "05-121",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/05-121.jpeg",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 12,
+  "fields": {
+    "name": "M68A",
+    "building": "Hovedbygningen",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/m68a.jpeg",
+    "capacity": 7,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 13,
+  "fields": {
+    "name": "M68B",
+    "building": "Hovedbygningen",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/m68b.jpeg",
+    "capacity": 7,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 14,
+  "fields": {
+    "name": "M68C",
+    "building": "Hovedbygningen",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/m68c.jpeg",
+    "capacity": 5,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 15,
+  "fields": {
+    "name": "M68D",
+    "building": "Hovedbygningen",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/m68d.jpeg",
+    "capacity": 5,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 17,
+  "fields": {
+    "name": "04-088",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 18,
+  "fields": {
+    "name": "04-089",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 19,
+  "fields": {
+    "name": "04-091",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 20,
+  "fields": {
+    "name": "04-092",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 21,
+  "fields": {
+    "name": "04-098",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 22,
+  "fields": {
+    "name": "04-099",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 23,
+  "fields": {
+    "name": "05-115",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 24,
+  "fields": {
+    "name": "05-116",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 25,
+  "fields": {
+    "name": "03-079",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 26,
+  "fields": {
+    "name": "04-076 Podcastrom",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 27,
+  "fields": {
+    "name": "02-041",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 28,
+  "fields": {
+    "name": "02-042",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 29,
+  "fields": {
+    "name": "02-043",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 30,
+  "fields": {
+    "name": "03-032",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 31,
+  "fields": {
+    "name": "03-064",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 32,
+  "fields": {
+    "name": "04-074",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 33,
+  "fields": {
+    "name": "04-077",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 34,
+  "fields": {
+    "name": "04-087",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 35,
+  "fields": {
+    "name": "04-094",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 36,
+  "fields": {
+    "name": "05-114",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 37,
+  "fields": {
+    "name": "05-126",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 38,
+  "fields": {
+    "name": "06-034",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 12,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 39,
+  "fields": {
+    "name": "02-045",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 14,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 40,
+  "fields": {
+    "name": "04-093",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 41,
+  "fields": {
+    "name": "03-061",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 42,
+  "fields": {
+    "name": "03-062",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 43,
+  "fields": {
+    "name": "03-063",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 44,
+  "fields": {
+    "name": "03-075",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 45,
+  "fields": {
+    "name": "04-075",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 15,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 46,
+  "fields": {
+    "name": "04-086",
+    "building": "Helgasetr",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 18,
+    "campus": "Øya"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 47,
+  "fields": {
+    "name": "BU1-110",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 48,
+  "fields": {
+    "name": "A3-136",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 5,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 49,
+  "fields": {
+    "name": "BU1-108",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 50,
+  "fields": {
+    "name": "B1-120",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 51,
+  "fields": {
+    "name": "B1-122",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 52,
+  "fields": {
+    "name": "BU1-106",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 53,
+  "fields": {
+    "name": "B1-126",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 54,
+  "fields": {
+    "name": "B1-124",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 55,
+  "fields": {
+    "name": "BU1-104",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 10,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 56,
+  "fields": {
+    "name": "R57",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 16,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 57,
+  "fields": {
+    "name": "R Wöhler (B2-126)",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 16,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 58,
+  "fields": {
+    "name": "R59",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 16,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 59,
+  "fields": {
+    "name": "R51",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 20,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 60,
+  "fields": {
+    "name": "R40",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 20,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 61,
+  "fields": {
+    "name": "R41",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 20,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 62,
+  "fields": {
+    "name": "R50",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 22,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 63,
+  "fields": {
+    "name": "R91",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 24,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 64,
+  "fields": {
+    "name": "R20",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 24,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 65,
+  "fields": {
+    "name": "R21",
+    "building": "Realfagbygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 28,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 66,
+  "fields": {
+    "name": "G321",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 4,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 67,
+  "fields": {
+    "name": "G324",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 4,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 68,
+  "fields": {
+    "name": "G316",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 69,
+  "fields": {
+    "name": "G302",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 70,
+  "fields": {
+    "name": "G301",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 71,
+  "fields": {
+    "name": "G319",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 72,
+  "fields": {
+    "name": "G320",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 73,
+  "fields": {
+    "name": "G315",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 74,
+  "fields": {
+    "name": "G303",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 75,
+  "fields": {
+    "name": "G318",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 76,
+  "fields": {
+    "name": "G322",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 77,
+  "fields": {
+    "name": "G317",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+},
+{
+  "model": "rombooking_api.room",
+  "pk": 78,
+  "fields": {
+    "name": "G323",
+    "building": "Adolf Øien-bygget",
+    "image_url": "https://eloquent-salmiakki-2cbe5c.netlify.app/room_dont_exist.png",
+    "capacity": 6,
+    "campus": "Gløshaugen"
+  }
+}
+]

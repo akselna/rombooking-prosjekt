@@ -1,0 +1,3 @@
+*.html
+*.jinja
+templates/**/*.html  # Ignorerer alle HTML-filer i templates-mappen
